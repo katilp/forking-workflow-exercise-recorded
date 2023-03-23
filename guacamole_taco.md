@@ -13,7 +13,6 @@ Instructions:
 * chop avocados
 * chop onion
 * squeeze lime
-* add some junk here
 * add salt
 * and mix well
 * enjoy!
